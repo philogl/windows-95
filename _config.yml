@@ -1,10 +1,10 @@
 permalink: /:year:month:day/:title
-url: itsramisa.com
+url: philbarclay.xyz
 baseurl: /project
 
 # variables
-name: ramisa fayez
-description: hello this is a website
+name: phil barclay
+description: hello this is the home of phil barclay
 google_verification: null
 
 
